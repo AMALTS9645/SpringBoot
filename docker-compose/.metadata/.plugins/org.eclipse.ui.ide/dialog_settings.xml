@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\248775\Documents\docker-compose\product-ms"/>
+		<item value="C:\Users\248775\Documents\docker-compose\order-ms"/>
+		<item value="C:\Users\248775\Documents\docker-compose\eureka-server"/>
+		<item value="C:\Users\248775\Documents\docker-compose\cart-ms"/>
+		<item value="C:\Users\248775\Documents\docker-compose\api-gateway-server"/>
+	</list>
+</section>

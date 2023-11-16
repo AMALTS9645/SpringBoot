@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input name="a" type="checkbox" value="ab">
+    <input name="a" type="checkbox" value="dhjscv">
+</body>
+<script>
+    var op = document.getElementsByName("a");
+    console.log(op);
+
+    op.forEach(op=>console.log(op.value));
+
+    // for(let el of op){
+    //     console.log(el.value);
+    // }
+</script>
+</html>

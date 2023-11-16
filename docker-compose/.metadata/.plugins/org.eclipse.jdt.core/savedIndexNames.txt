@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+C:\Users\248775\Documents\docker-compose\.metadata\.plugins\org.eclipse.jdt.core
+706275424.index
+1906369267.index
+2976061572.index
+1698827149.index
+1403422326.index
+3800374006.index
+3869841811.index
+1770272716.index
+266800350.index
+3980111555.index
+3331829809.index
+1356388316.index
+230324820.index
+3068316012.index
