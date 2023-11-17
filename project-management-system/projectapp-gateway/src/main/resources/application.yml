@@ -1,0 +1,14 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: projectapp-gateway-server
+    
+#  cloud:
+#    gateway:
+#      routes:
+#      - id: auth-server
+#        uri:
+#          lb://auth-server
+#        predicates:
+#        - Path=/cart/**
