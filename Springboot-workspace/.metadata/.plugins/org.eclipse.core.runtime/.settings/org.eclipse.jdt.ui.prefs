@@ -1,0 +1,15 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="com.ust.app.foodmenu.model.Status"/><rhs name\="org.springframework.format.annotation.DateTimeFormat$ISO"/><rhs name\="javax.persistence.EnumType"/><rhs name\="org.junit.jupiter.api.TestInstance$Lifecycle"/><rhs name\="com.ust.app.customerapp.model.UserType"/><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="java.time.temporal.Temporal"><rhs name\="java.time.LocalDateTime"/><rhs name\="java.time.LocalDate"/></lhs><lhs name\="java.time.temporal.TemporalAccessor"><rhs name\="java.time.LocalDateTime"/><rhs name\="java.time.LocalDate"/></lhs><lhs name\="java.time.temporal.TemporalAdjuster"><rhs name\="java.time.LocalDateTime"/><rhs name\="java.time.LocalDate"/></lhs><lhs name\="java.time.chrono.ChronoLocalDate"><rhs name\="java.time.LocalDate"/></lhs><lhs name\="com.ust.app.customerapp.dto.ErrorResponse"><rhs name\="com.ust.app.customerapp.dto.ErrorResponse"/></lhs><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="com.ust.app.foodmenu.model.MenuItem"><rhs name\="com.ust.app.foodmenu.model.MenuItem"/></lhs><lhs name\="com.ust.app.foodmenu.model.Status"><rhs name\="com.ust.app.foodmenu.model.Status"/></lhs><lhs name\="java.time.chrono.ChronoLocalDateTime"><rhs name\="java.time.LocalDateTime"/></lhs><lhs name\="com.ust.app.foodmenu.dto.ErrorResponse"><rhs name\="com.ust.app.foodmenu.dto.ErrorResponse"/></lhs><lhs name\="com.ust.app.customerapp.model.UserType"><rhs name\="com.ust.app.customerapp.model.UserType"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="com.ust.app.customerapp.exception.CustomerAlreadyExistsException"/><rhs name\="com.ust.app.customerapp.exception.CustomerNotFoundException"/></lhs><lhs name\="com.ust.app.bookstore.dto.ErrorResponse"><rhs name\="com.ust.app.bookstore.dto.ErrorResponse"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=16
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

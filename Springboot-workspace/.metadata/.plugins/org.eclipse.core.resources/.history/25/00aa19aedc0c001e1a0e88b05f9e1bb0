@@ -1,0 +1,16 @@
+package com.ust.app.bookstore.service;
+
+import java.util.List;
+
+import com.ust.app.bookstore.model.Book;
+
+public interface BookService {
+//	GET /books: Retrieve a list of all books.
+//	GET /books/{id}: Retrieve a specific book by its ID.
+//	POST /books: Create a new book record.
+//	PUT /books/{id}: Update an existing book record.
+//	DELETE /books/{id}: Delete a book record.
+	public List<Book> getAllBooks();
+	public Book getBookById(int id);
+	
+}

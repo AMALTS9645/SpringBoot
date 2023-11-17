@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;customer-app-with-jpa-testing&apos;" deleteContents="true" description="Delete resource &apos;customer-app-with-jpa-testing&apos;" element1="/customer-app-with-jpa-testing" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1686110338763"/>
+</session>

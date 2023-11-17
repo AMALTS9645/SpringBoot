@@ -1,0 +1,9 @@
+package com.ust.app.bookstore.service;
+
+import java.util.List;
+
+import com.ust.app.bookstore.model.Book;
+
+public interface BookService {
+	public List<Book> getAllBooks();
+}

@@ -1,0 +1,5 @@
+package com.ust.app.bookstore.service;
+
+public interface BookService {
+
+}
